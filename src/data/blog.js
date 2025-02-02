@@ -19,6 +19,14 @@ module.exports = [
     desc: `Berkontribusi sebagai Fasilitator Kelas Membangun Progressive Web Apps di tahun 2020.`,
   },
   {
+    id: '5',
+    image: 'https://lh3.googleusercontent.com/d/1dvx839MBbgKYg2C3OVNXupqbNzSSc0QE',
+    href: 'https://lh3.googleusercontent.com/d/1dvx839MBbgKYg2C3OVNXupqbNzSSc0QE',
+    title: 'Front-End Web Developer Expert',
+    date: '2020',
+    desc: `Kelas Menjadi frontend web developer expert Dicoding.`,
+  },
+  {
     id: '4',
     image: 'https://lh3.googleusercontent.com/d/1jFSUIiKdmPyC58tryrXg-01QMeLP851v',
     href: 'https://lh3.googleusercontent.com/d/1jFSUIiKdmPyC58tryrXg-01QMeLP851v',
