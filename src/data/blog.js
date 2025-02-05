@@ -27,6 +27,14 @@ module.exports = [
     desc: `Kelas Menjadi frontend web developer expert Dicoding.`,
   },
   {
+    id: '6',
+    image: 'https://lh3.googleusercontent.com/d/1xmAm5bx9jtUYE2GADM7VDFdtoXUExN3A',
+    href: 'https://lh3.googleusercontent.com/d/1xmAm5bx9jtUYE2GADM7VDFdtoXUExN3A',
+    title: 'Data Analytics Mini Course [RevoU]',
+    date: '2019',
+    desc: `a 2-weeks certified online course offered by RevoU`,
+  },
+  {
     id: '4',
     image: 'https://lh3.googleusercontent.com/d/1jFSUIiKdmPyC58tryrXg-01QMeLP851v',
     href: 'https://lh3.googleusercontent.com/d/1jFSUIiKdmPyC58tryrXg-01QMeLP851v',
