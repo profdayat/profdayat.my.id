@@ -14,4 +14,10 @@ module.exports = [
     message: `[Dicoding] Membangun Progressive Web App. Football match data adalah progressive web apps yang menampilkan klasemen, team, pertandingan, dan masih banyak lagi dari 12 liga yang paling populer di dunia.`,
     link: 'https://football-dayat.netlify.app',
   },
+  {
+    title: 'Gsheet RestAPI',
+    image: 'https://lh3.googleusercontent.com/d/1SdLl2rU1r85Sbsa_T1yLRnCrGRxvwo4j',
+    message: `CRUD Google Sheets allows you to manage your data efficiently using Google Sheets as a datatabase`,
+    link: 'https://crud-google-sheets-production.up.railway.app/',
+  },
 ];

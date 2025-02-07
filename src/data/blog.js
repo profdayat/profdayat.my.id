@@ -4,16 +4,16 @@
 module.exports = [
   {
     id: '3',
-    image: 'https://media.licdn.com/dms/image/v2/C562DAQGphTO8JJEjMQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1673713361643?e=1738785600&v=beta&t=8F7rVdObrRQu-aXL4d5UH8RDCPWdtCq71GfyV1E_AmU',
-    href: 'https://media.licdn.com/dms/image/v2/C562DAQGphTO8JJEjMQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1673713361643?e=1738785600&v=beta&t=8F7rVdObrRQu-aXL4d5UH8RDCPWdtCq71GfyV1E_AmU',
+    image: 'https://lh3.googleusercontent.com/d/172h_-bmxJAydrdJtRgOFj6lqCQuCHvcu',
+    href: 'https://lh3.googleusercontent.com/d/172h_-bmxJAydrdJtRgOFj6lqCQuCHvcu',
     title: 'Fasilitator Program Indosat Ooredoo Digital Camp',
     date: '2020',
     desc: `Berkontribusi sebagai Fasilitator Kelas Menjadi Front-end Web Developer Expert di tahun 2020.`,
   },
   {
     id: '2',
-    image: 'https://media.licdn.com/dms/image/v2/C561FAQHcmIls3PemYQ/feedshare-document-images_480/feedshare-document-images_480/1/1598865526760?e=1738800000&v=beta&t=Vr-kAwWYcdm0AcD2FC0YeV-1S--BHzMbat2GfVfO_fg',
-    href: 'https://media.licdn.com/dms/image/v2/C561FAQHcmIls3PemYQ/feedshare-document-images_480/feedshare-document-images_480/1/1598865526760?e=1738800000&v=beta&t=Vr-kAwWYcdm0AcD2FC0YeV-1S--BHzMbat2GfVfO_fg',
+    image: 'https://lh3.googleusercontent.com/d/12XB8qjgZWP6ey1yselVheNBTX1PChOgw',
+    href: 'https://lh3.googleusercontent.com/d/12XB8qjgZWP6ey1yselVheNBTX1PChOgw',
     title: 'Fasilitator Program Indosat Ooredoo Digital Camp',
     date: '2020',
     desc: `Berkontribusi sebagai Fasilitator Kelas Membangun Progressive Web Apps di tahun 2020.`,
@@ -31,7 +31,7 @@ module.exports = [
     image: 'https://lh3.googleusercontent.com/d/1xmAm5bx9jtUYE2GADM7VDFdtoXUExN3A',
     href: 'https://lh3.googleusercontent.com/d/1xmAm5bx9jtUYE2GADM7VDFdtoXUExN3A',
     title: 'Data Analytics Mini Course [RevoU]',
-    date: '2019',
+    date: '2023',
     desc: `a 2-weeks certified online course offered by RevoU`,
   },
   {
