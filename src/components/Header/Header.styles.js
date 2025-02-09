@@ -20,7 +20,7 @@ const styles = theme => ({
     display: 'flex',
     flexDirection: 'column',
     margin: [0, 'auto'],
-    padding: [20, 20, 10],
+    padding: [20, 0, 10],
     width: '100%',
     maxWidth: 1000
   },
