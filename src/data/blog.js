@@ -43,6 +43,14 @@ module.exports = [
     desc: `a 2-weeks certified online course offered by RevoU`,
   },
   {
+    id: '8',
+    image: 'https://lh3.googleusercontent.com/d/1PugokolNLufoNIdG-U-hnyE6t4DF934D',
+    href: 'https://lh3.googleusercontent.com/d/1PugokolNLufoNIdG-U-hnyE6t4DF934D',
+    title: 'Database Programming [KEMKOMINFO]',
+    date: '2019',
+    desc: `Pelatihan berbasis kompetensi untuk angkatan kerja muda bidang keahlian Database Programming`,
+  },
+  {
     id: '4',
     image: 'https://lh3.googleusercontent.com/d/1jFSUIiKdmPyC58tryrXg-01QMeLP851v',
     href: 'https://lh3.googleusercontent.com/d/1jFSUIiKdmPyC58tryrXg-01QMeLP851v',
