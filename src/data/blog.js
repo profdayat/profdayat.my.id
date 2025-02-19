@@ -58,4 +58,12 @@ module.exports = [
     date: '2019',
     desc: `Sertifikasi Kompetensi Klaster Database Programming dari LSP TIK Indonesia, mengakui kemampuan dalam: mengimplementasikan pemrograman terstruktur, memanfaatkan library/komponen pre-existing, menggunakan SQL untuk operasi data dan prosedur, menerapkan akses basis data, serta membuat dokumentasi kode program sesuai standar industri..`,
   },
+{
+    id: '8',
+    image: 'https://lh3.googleusercontent.com/d/129lP0y-5j4gLQbrJIc3WF9a0T7SQPBJ1',
+    href: 'https://lh3.googleusercontent.com/d/129lP0y-5j4gLQbrJIc3WF9a0T7SQPBJ1',
+    title: 'Situng Operator [KPU Kab. Pasuruan]',
+    date: '2019',
+    desc: `Berkontribusi sebagai operator siting di KPUD Kab. Pasuruan pemilu 2019`,
+  },
 ];
