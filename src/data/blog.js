@@ -58,4 +58,12 @@ module.exports = [
     date: '2019',
     desc: `Sertifikasi Kompetensi Klaster Database Programming dari LSP TIK Indonesia, mengakui kemampuan dalam: mengimplementasikan pemrograman terstruktur, memanfaatkan library/komponen pre-existing, menggunakan SQL untuk operasi data dan prosedur, menerapkan akses basis data, serta membuat dokumentasi kode program sesuai standar industri..`,
   },
+  {
+    id: '9',
+    image: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
+    href: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
+    title: 'Realtime Applied Sciense with IOT [UNIBRAW]',
+    date: '2018',
+    desc: `Technology workshop Realtime Applied Sciense With IOT`,
+  },
 ];
