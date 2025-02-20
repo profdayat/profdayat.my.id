@@ -60,6 +60,14 @@ module.exports = [
   },
   {
     id: '9',
+    image: 'https://lh3.googleusercontent.com/d/129lP0y-5j4gLQbrJIc3WF9a0T7SQPBJ1',
+    href: 'https://lh3.googleusercontent.com/d/129lP0y-5j4gLQbrJIc3WF9a0T7SQPBJ1',
+    title: 'Situng Operator [KPU Kab. Pasuruan]',
+    date: '2019',
+    desc: `Berkontribusi sebagai operator siting di KPUD Kab. Pasuruan pemilu 2019`,
+  },
+  {
+    id: '10',
     image: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
     href: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
     title: 'Realtime Applied Sciense with IOT [UNIBRAW]',
