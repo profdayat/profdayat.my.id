@@ -70,8 +70,8 @@ module.exports = [
     id: '10',
     image: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
     href: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
-    title: 'Realtime Applied Sciense with IOT [UNIBRAW]',
+    title: 'Realtime Applied Science with IOT [UNIVERSITAS BRAWIJAYA]',
     date: '2018',
-    desc: `Technology workshop Realtime Applied Sciense With IOT`,
+    desc: `Technology workshop Realtime Applied Science With IOT`,
   },
 ];
