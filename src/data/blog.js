@@ -68,6 +68,14 @@ module.exports = [
   },
   {
     id: '10',
+    image: 'https://lh3.googleusercontent.com/d/1QiFdzxrNHiF4RmWb70cGjnhq3F-ft0jd',
+    href: 'https://lh3.googleusercontent.com/d/1QiFdzxrNHiF4RmWb70cGjnhq3F-ft0jd',
+    title: 'SNATI [PRODI STMIK YADIKA BANGIL]',
+    date: '2019',
+    desc: `Inovasi dan implementasi teknologi menuju revolusi industri 4.0`,
+  },
+  {
+    id: '11',
     image: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
     href: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
     title: 'Realtime Applied Science with IOT [UNIVERSITAS BRAWIJAYA]',
