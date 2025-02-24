@@ -76,6 +76,14 @@ module.exports = [
   },
   {
     id: '11',
+    image: 'https://lh3.googleusercontent.com/d/1Pqhu7KzWtBh3pN3mkBWl69qKBbloKXlD',
+    href: 'https://lh3.googleusercontent.com/d/1Pqhu7KzWtBh3pN3mkBWl69qKBbloKXlD',
+    title: 'Dukungan Riset Matematika [UNIV DR. SOETOMO]',
+    date: '2019',
+    desc: `Pengembangan Media Pembelajaran Penalaran Matematika pada Pembuatan Algoritma Komputasi berbasis Gaya Belajar dan Pendidikan Karakter`,
+  },
+  {
+    id: '12',
     image: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
     href: 'https://lh3.googleusercontent.com/d/1FKTrGVDAXCXv65O8X_KKh1r7KCftdHlk',
     title: 'Realtime Applied Science with IOT [UNIVERSITAS BRAWIJAYA]',
