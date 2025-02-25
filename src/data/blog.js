@@ -90,4 +90,12 @@ module.exports = [
     date: '2018',
     desc: `Technology workshop Realtime Applied Science With IOT`,
   },
+  {
+    id: '13',
+    image: 'https://lh3.googleusercontent.com/d/1Wa_LP1N3lA1Vsy3IImewJpZ2saoz98VZ',
+    href: 'https://lh3.googleusercontent.com/d/1Wa_LP1N3lA1Vsy3IImewJpZ2saoz98VZ',
+    title: 'Art Of Hacking [UNIVERSITAS BRAWIJAYA]',
+    date: '2018',
+    desc: `Seminar nasiona Software Freedom Day 2018 "Art of Hacking"`,
+  },
 ];
