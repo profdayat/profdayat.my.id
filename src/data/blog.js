@@ -98,4 +98,12 @@ module.exports = [
     date: '2018',
     desc: `Seminar nasiona Software Freedom Day 2018 "Art of Hacking"`,
   },
+  {
+    id: '14',
+    image: 'https://lh3.googleusercontent.com/d/1ZMRwBO2DE6f8P1RKxniaFmn_fFmDt9c8',
+    href: 'https://lh3.googleusercontent.com/d/1ZMRwBO2DE6f8P1RKxniaFmn_fFmDt9c8',
+    title: 'StartUP Workshop [APTIKOM W.7]',
+    date: '2017',
+    desc: `Build StartUp in 55 Hours & Turning Ideas to Business`,
+  },
 ];
