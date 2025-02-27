@@ -43,6 +43,14 @@ module.exports = [
     desc: `a 2-weeks certified online course offered by RevoU`,
   },
   {
+    id: '14',
+    image: 'https://lh3.googleusercontent.com/d/1Gb5DkaxEfJ_7VXN0bnKtPdbWjgJf1sRG',
+    href: 'https://lh3.googleusercontent.com/d/1Gb5DkaxEfJ_7VXN0bnKtPdbWjgJf1sRG',
+    title: 'Digital Marketing [Google]',
+    date: '2020',
+    desc: `The Fundamental of Digital Marketing certification exam`,
+  },
+  {
     id: '8',
     image: 'https://lh3.googleusercontent.com/d/1PugokolNLufoNIdG-U-hnyE6t4DF934D',
     href: 'https://lh3.googleusercontent.com/d/1PugokolNLufoNIdG-U-hnyE6t4DF934D',
