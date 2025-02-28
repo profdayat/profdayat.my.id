@@ -43,7 +43,15 @@ module.exports = [
     desc: `a 2-weeks certified online course offered by RevoU`,
   },
   {
-    id: '14',
+    id: '16',
+    image: 'https://lh3.googleusercontent.com/d/1BmZoYoB2Ze2ZT33_SiC2c-ZCqxAcZIuS',
+    href: 'https://lh3.googleusercontent.com/d/1BmZoYoB2Ze2ZT33_SiC2c-ZCqxAcZIuS',
+    title: 'Virtual Summit 2021 [IDCamp]',
+    date: '2021',
+    desc: `Discussion about "What Companies Seek from Developers"`,
+  },
+  {
+    id: '15',
     image: 'https://lh3.googleusercontent.com/d/1Gb5DkaxEfJ_7VXN0bnKtPdbWjgJf1sRG',
     href: 'https://lh3.googleusercontent.com/d/1Gb5DkaxEfJ_7VXN0bnKtPdbWjgJf1sRG',
     title: 'Digital Marketing [Google]',
