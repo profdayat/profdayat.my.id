@@ -27,6 +27,14 @@ module.exports = [
     desc: `a 2-weeks certified online course offered by RevoU`,
   },
   {
+    id: '18',
+    image: 'https://lh3.googleusercontent.com/d/11f_aGdzNPdb8aq30XvZGGyMZQr28xJh53',
+    href: 'https://lh3.googleusercontent.com/d/1f_aGdzNPdb8aq30XvZGGyMZQr28xJh53',
+    title: 'BDD [Kemenparekraf]',
+    date: '2022',
+    desc: `Baparekraf Developer Day 2022 Diselenggarakan oleh Kementerian Pariwisata dan Ekonomi Kreatif Republik Indonesia`,
+  },
+  {
     id: '16',
     image: 'https://lh3.googleusercontent.com/d/1BmZoYoB2Ze2ZT33_SiC2c-ZCqxAcZIuS',
     href: 'https://lh3.googleusercontent.com/d/1BmZoYoB2Ze2ZT33_SiC2c-ZCqxAcZIuS',
