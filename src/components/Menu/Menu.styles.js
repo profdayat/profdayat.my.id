@@ -14,7 +14,7 @@ const styles = (theme) => ({
     padding: [10, 0, 10],
     width: "100%",
     lineHeight: 1,
-    fontSize: 12.5,
+    //fontSize: 12.5,
     textAlign: "center",
     //textTransform: "uppercase",
     textShadow: `0 0 5px ${theme.color.secondary.main}`,
