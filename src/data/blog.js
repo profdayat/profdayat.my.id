@@ -28,7 +28,7 @@ module.exports = [
   },
   {
     id: '18',
-    image: 'https://lh3.googleusercontent.com/d/11f_aGdzNPdb8aq30XvZGGyMZQr28xJh53',
+    image: 'https://lh3.googleusercontent.com/d/1f_aGdzNPdb8aq30XvZGGyMZQr28xJh53',
     href: 'https://lh3.googleusercontent.com/d/1f_aGdzNPdb8aq30XvZGGyMZQr28xJh53',
     title: 'BDD [Kemenparekraf]',
     date: '2022',
