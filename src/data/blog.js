@@ -35,6 +35,14 @@ module.exports = [
     desc: `Baparekraf Developer Day 2022 Diselenggarakan oleh Kementerian Pariwisata dan Ekonomi Kreatif Republik Indonesia`,
   },
   {
+    id: '19',
+    image: 'https://lh3.googleusercontent.com/d/1q4vYcp8Sxor8eo6LF5PMsMjjEc3sDUfP',
+    href: 'https://lh3.googleusercontent.com/d/1q4vYcp8Sxor8eo6LF5PMsMjjEc3sDUfP',
+    title: 'Fasilitator Program [Kemenparekraf]',
+    date: '2021',
+    desc: `Berkontribusi sebagai Fasilitator Kelas Menjadi Front-end Web Developer Expert di tahun 2020 yang diselenggarakan oleh Kementerian Pariwisata dan Ekonomi Kreatif Republik Indonesia.`,
+  },
+  {
     id: '16',
     image: 'https://lh3.googleusercontent.com/d/1BmZoYoB2Ze2ZT33_SiC2c-ZCqxAcZIuS',
     href: 'https://lh3.googleusercontent.com/d/1BmZoYoB2Ze2ZT33_SiC2c-ZCqxAcZIuS',
