@@ -3,6 +3,14 @@
 
 module.exports = [
   {
+    id: '20',
+    image: 'https://lh3.googleusercontent.com/d/1D0S-OujIumFn27aTsTmbfWDuqRQ8AD0z',
+    href: 'https://lh3.googleusercontent.com/d/1D0S-OujIumFn27aTsTmbfWDuqRQ8AD0z',
+    title: 'Frontend vs Backend [IDCamp x Dicoding]',
+    date: '2025',
+    desc: `IDCamp x Dicoding Live #6 - Frontend vs Backend: A Never-Ending Love-Hate Relationship`,
+  },
+  {
     id: '17',
     image: 'https://lh3.googleusercontent.com/d/17bZf6177fxBe0E-SmiePMBFiYJojDLjO',
     href: 'https://lh3.googleusercontent.com/d/17bZf6177fxBe0E-SmiePMBFiYJojDLjO',
