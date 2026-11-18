@@ -3,6 +3,14 @@
 
 module.exports = [
   {
+    id: '21',
+    image: 'https://lh3.googleusercontent.com/d/1R3G16zpMmq1qSKvppuXdZ9qHuyeoF37N',
+    href: 'https://lh3.googleusercontent.com/d/1R3G16zpMmq1qSKvppuXdZ9qHuyeoF37N',
+    title: 'Cloud dan Gen AI di AWS',
+    date: '2026',
+    desc: `Belajar Dasar Cloud dan Gen AI di AWS`,
+  },
+  {
     id: '20',
     image: 'https://lh3.googleusercontent.com/d/1D0S-OujIumFn27aTsTmbfWDuqRQ8AD0z',
     href: 'https://lh3.googleusercontent.com/d/1D0S-OujIumFn27aTsTmbfWDuqRQ8AD0z',
